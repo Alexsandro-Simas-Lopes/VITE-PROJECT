@@ -1,0 +1,15 @@
+.Button {
+    background: var(--verde);
+    border: 1px solid var(--preto);
+    padding: 0.25rem 0.75rem;
+    color: var(--cinza);
+    cursor: pointer;
+}
+
+.Button[tipo="first"] {
+    background: var(--verde);
+}
+
+.Button[tipo="last"] {
+    background: var(--orange);
+}

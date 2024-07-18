@@ -1,0 +1,9 @@
+.TextField {
+    border: 1px solid var(--preto);
+    width: 25rem;
+    padding: 0.25rem 0.75rem;
+}
+
+form {
+    margin: 25px;
+}

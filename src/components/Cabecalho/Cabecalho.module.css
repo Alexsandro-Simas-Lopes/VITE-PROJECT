@@ -1,0 +1,21 @@
+.Cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--preto);
+    color: var(--cinza) ;
+}
+
+.Cabecalho a {
+    text-decoration: none;
+    color: var(--cinza);
+}
+.Cabecalho a:hover {
+    text-decoration: none;
+    color: var(--white);
+}
+
+.Cabecalho h1 span {
+    color: var(--verde);
+}
+
